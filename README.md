@@ -15,8 +15,7 @@ Featured products
 
 Glimpse of our website
 Navbar
-1
-
+<img src="https://user-images.githubusercontent.com/31920143/208379986-804c58ed-d35e-46b5-b9df-071c2c676dc2.png"/>
 Overview of Homepage
 2 3
 
